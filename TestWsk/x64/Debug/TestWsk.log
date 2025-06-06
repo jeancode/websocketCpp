@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\jean\source\repos\TestWsk\TestWsk\include\websocketpp\config\asio_no_tls_client.hpp(31,10): error C1083: No se puede abrir el archivo incluir: 'websocketpp/config/core_client.hpp': No such file or directory
+  (compilando archivo de origen "main.cpp")
+  

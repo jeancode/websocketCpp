@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36119.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestWsk", "TestWsk\TestWsk.vcxproj", "{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Debug|x64.ActiveCfg = Debug|x64
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Debug|x64.Build.0 = Debug|x64
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Debug|x86.Build.0 = Debug|Win32
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Release|x64.ActiveCfg = Release|x64
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Release|x64.Build.0 = Release|x64
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Release|x86.ActiveCfg = Release|Win32
+		{1CB9AD44-5AAD-46BD-9A36-E3BC9FF7E78F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6009D163-A704-4E07-9DF3-241377621307}
+	EndGlobalSection
+EndGlobal

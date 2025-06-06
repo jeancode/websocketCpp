@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\jean\source\repos\TestWsk\TestWsk\libs\websocketpp\frame.hpp(834,13): warning C4267: '=': conversión de 'size_t' a 'uint32_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\jean\source\repos\TestWsk\TestWsk\libs\websocketpp\common\md5.hpp(367,29): warning C4267: '+=': conversión de 'size_t' a 'websocketpp::md5::md5_word_t'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\jean\source\repos\TestWsk\TestWsk\libs\websocketpp\sha1\sha1.hpp(176,24): warning C4267: '=': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 6777 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  TestWsk.vcxproj -> C:\Users\jean\source\repos\TestWsk\x64\Release\TestWsk.exe
